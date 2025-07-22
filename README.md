@@ -29,6 +29,7 @@ The Ames Housing dataset contains 79 explanatory variables describing various as
 4. **Modeling**
    - Train individual models: Lasso, ElasticNet, XGBoost, LightGBM
    - Combine them with a stacked ensemble model
+   - The modeling strategy used here referenced this [notebook] (https://www.kaggle.com/code/serigne/stacked-regressions-top-4-on-leaderboard)
 
 5. **Evaluation**
    - Metric: Root Mean Squared Log Error (RMSLE)
