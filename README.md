@@ -25,7 +25,6 @@ The Ames Housing dataset contains 79 explanatory variables describing various as
 3. **Feature Engineering**
    - Log-transform skewed variables
    - One-hot encode categorical variables
-   - Normalize numeric features with `RobustScaler`
 
 4. **Modeling**
    - Train individual models: Lasso, ElasticNet, XGBoost, LightGBM
