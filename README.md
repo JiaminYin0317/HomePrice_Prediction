@@ -43,3 +43,5 @@ The Ames Housing dataset contains 79 explanatory variables describing various as
   - `pandas`, `numpy`, `scikit-learn`
   - `xgboost`, `lightgbm`, `seaborn`, `matplotlib`
 
+### Reference
+Anna Montoya and DataCanary. House Prices - Advanced Regression Techniques. https://kaggle.com/competitions/house-prices-advanced-regression-techniques, 2016. Kaggle.
